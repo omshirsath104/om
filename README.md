@@ -1,2 +1,2 @@
 # om
-learn git
+learn git.
